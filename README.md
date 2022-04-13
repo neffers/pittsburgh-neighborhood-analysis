@@ -12,5 +12,6 @@ Canvas Group 9
 * Giovanni Versace - giv8@pitt.edu
     - Evaluating school enrollment reates in different neighborhoods 
     - giv8.ipynb
+    - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0eba
 * Jason Vo - jhv5@pitt.edu
 
