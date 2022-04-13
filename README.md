@@ -10,5 +10,7 @@ Canvas Group 9
     - jbb65-lead-in-the-water.ipynb
     - https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates
 * Giovanni Versace - giv8@pitt.edu
+    - Evaluating school enrollment reates in different neighborhoods 
+    - giv8.ipynb
 * Jason Vo - jhv5@pitt.edu
 
